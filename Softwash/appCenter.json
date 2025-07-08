@@ -1,0 +1,9 @@
+{
+  "is_maintainance": false,
+  "is_force_update": false,
+  "android_version": "1.0.0",
+  "ios_version": "1.0.0",
+  "android_link": "playstore",
+  "ios_link": "appStore",
+  "update_msg": "HeyThere!!"
+}

@@ -1,0 +1,13 @@
+D:\ProjectManagement\Softwash\Softwash.Domain\bin\Debug\net8.0\Softwash.Domain.deps.json
+D:\ProjectManagement\Softwash\Softwash.Domain\bin\Debug\net8.0\Softwash.Domain.dll
+D:\ProjectManagement\Softwash\Softwash.Domain\bin\Debug\net8.0\Softwash.Domain.pdb
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.csproj.AssemblyReference.cache
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.AssemblyInfoInputs.cache
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.AssemblyInfo.cs
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.csproj.CoreCompileInputs.cache
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.sourcelink.json
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.dll
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\refint\Softwash.Domain.dll
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\Softwash.Domain.pdb
+D:\ProjectManagement\Softwash\Softwash.Domain\obj\Debug\net8.0\ref\Softwash.Domain.dll
