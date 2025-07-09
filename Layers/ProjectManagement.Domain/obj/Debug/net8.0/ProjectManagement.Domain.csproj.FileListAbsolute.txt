@@ -24,16 +24,3 @@ D:\ProjectManagement\ProjectManagement\Softwash.Domain\obj\Debug\net8.0\ProjectM
 D:\ProjectManagement\ProjectManagement\Softwash.Domain\obj\Debug\net8.0\refint\ProjectManagement.Domain.dll
 D:\ProjectManagement\ProjectManagement\Softwash.Domain\obj\Debug\net8.0\ProjectManagement.Domain.pdb
 D:\ProjectManagement\ProjectManagement\Softwash.Domain\obj\Debug\net8.0\ref\ProjectManagement.Domain.dll
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\bin\Debug\net8.0\ProjectManagement.Domain.deps.json
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\bin\Debug\net8.0\ProjectManagement.Domain.dll
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\bin\Debug\net8.0\ProjectManagement.Domain.pdb
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.csproj.AssemblyReference.cache
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.AssemblyInfoInputs.cache
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.AssemblyInfo.cs
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.csproj.CoreCompileInputs.cache
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.sourcelink.json
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.dll
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\refint\ProjectManagement.Domain.dll
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ProjectManagement.Domain.pdb
-D:\ProjectManagement\ProjectManagement\Layers\ProjectManagement.Domain\obj\Debug\net8.0\ref\ProjectManagement.Domain.dll
