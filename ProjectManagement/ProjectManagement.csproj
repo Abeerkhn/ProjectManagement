@@ -34,9 +34,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Softwash.Application\ProjectManagement.Application.csproj" />
-    <ProjectReference Include="..\Softwash.Domain\ProjectManagement.Domain.csproj" />
-    <ProjectReference Include="..\Softwash.Infrastructure\ProjectManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\Layers\ProjectManagement.Application\ProjectManagement.Application.csproj" />
+    <ProjectReference Include="..\Layers\ProjectManagement.Domain\ProjectManagement.Domain.csproj" />
+    <ProjectReference Include="..\Layers\ProjectManagement.Infrastructure\ProjectManagement.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
